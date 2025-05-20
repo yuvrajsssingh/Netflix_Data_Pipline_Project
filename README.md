@@ -1,6 +1,6 @@
- # Netflix Data Pipeline - Overview
+ # Data Pipeline - Overview
 
-This project implements a robust ETL pipeline using AWS services to process and analyze Netflix-related data. 
+This project implements a robust ETL pipeline using AWS services to process and analyze data. 
 The pipeline fetches raw data,processes it, and then stores it in Amazon Redshift for further analysis. Below are the key steps involved in the pipeline:
 
 ## Step 1: Data Loading and Preprocessing
